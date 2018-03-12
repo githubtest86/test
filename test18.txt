@@ -1,0 +1,33 @@
+This is a test push via CLI to examine in WireShark.
+
+Password: 22446688001133557799
+
+
+
+_______¦_______¦______¦_____
+¦¦¯¦¦¦¦¦¦¦¯¦¦¦¦¦¦¦¦¯¦¦¦¦¦¦¦¦
+¦¦¦¯¦¦¦¦¦¦¦¯¦¦¦¦_¦¦¦¦¦¦_¦¦¦¦
+¦¦¦¦¦¦¦¦¦¦¦¦¯¦¦_¦¦¦¦¦¦¦¦¦¦¦¦
+¦¦¦¦¦¦¦¦¦¦¦¦¦¯¦¦¦¦¦¦¦¦¦¯¦¦¦¦
+¦¦¦¦¦¦¦¦¦¦¦¦¦_¦¦¦¦¦¦¦¦¯¦¦¦¦¦
+¦¦¦¦¦¦¦¦¦_¦¦_¯¦¦¦¦¦¦¦¯¦¦¦¦¦¦
+¦¦¦¦¦¦¦¯¦¦_¦¯¦¦¦¦¦¦_¯¦¦¦¦¦¦¦
+¦¦¦¦¦¦¦¦¯¦¦¯¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦
+¦¦¦¦¦¦¦¦¦¯¯¦¦¦¦¦¦¦¯¦¦¦¦¦¦¦¦¦
+
+
+  
+Maintenance Notification
+Maintenance Summary
+The vendor who provides certs for client device (iOS, Android, and cert-based firewall) enrollment for the Web Security Service will be performing scheduled maintenance on 7 April 2018.
+Timing
+7 April 2018, commencing at 13:00 UTC. Duration: 12 hours. 
+Customer Impact
+This will impact the enrollment of new devices only. Devices that have already been enrolled will not be impacted.
+Reporting Problems
+If you experience issues following this maintenance, contact Technical Support. Support information is located at https://support.symantec.com/en_US.html or on the main Web Security Service Portal page of https://portal.threatpulse.com/.
+Please visit the Trust Page for periodic updates and to see other status of the service.
+Web Security Service Team
+To unsubscribe from notifications, sign into service portal and clear the options in your profile's "Email Subscription" tab. 
+Copyright © 2018 Symantec Corporation. All rights reserved. Symantec, the Symantec Logo, the Checkmark Logo and Symantec Security Cloud are trademarks or registered trademarks of Symantec Corporation or its affiliates in the U.S. and other countries. Other names may be trademarks of their respective owners 
+Powered by   © 2018 Privacy Policy | Symantec Support 
